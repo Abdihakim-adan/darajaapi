@@ -1,4 +1,4 @@
 <?php
-   echo "hello Abdi this is stk"
+   echo "hello Abdi this is stk" 
 
 ?>
